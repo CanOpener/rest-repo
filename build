@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "Building some shit!"
-sleep 2
 echo "Done Building!"
